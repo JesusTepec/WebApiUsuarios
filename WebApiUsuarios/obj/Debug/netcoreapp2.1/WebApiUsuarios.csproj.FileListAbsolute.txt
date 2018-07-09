@@ -12,3 +12,17 @@ C:\Users\Rake\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1
 C:\Users\Rake\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorTargetAssemblyInfo.cache
 C:\Users\Rake\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.dll
 C:\Users\Rake\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.pdb
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.deps.json
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.runtimeconfig.json
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.runtimeconfig.dev.json
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.dll
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.pdb
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.csprojAssemblyReference.cache
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorAssemblyInfo.cache
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorAssemblyInfo.cs
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.AssemblyInfoInputs.cache
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.AssemblyInfo.cs
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorTargetAssemblyInfo.cache
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.dll
+C:\Users\Rake\Documents\GitHub\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.pdb

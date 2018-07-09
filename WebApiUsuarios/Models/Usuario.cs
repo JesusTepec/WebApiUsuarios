@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -7,9 +8,9 @@ namespace WebApiUsuarios.Models
 {
     public class Usuario
     {
-        public int Id { set; get; }
-        public string Nombre { set; get; }
-        public string UserName { set; get; }
-        public string Password;
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
     }
 }

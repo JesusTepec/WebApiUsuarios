@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApiUsuarios",
+    "\\WebApiUsuarios\\bin\\Debug",
+    "\\WebApiUsuarios\\bin\\Debug\\netcoreapp2.1",
+    "\\WebApiUsuarios\\bin\\Release",
+    "\\WebApiUsuarios\\bin\\Release\\netcoreapp2.1",
+    "\\WebApiUsuarios\\obj\\Debug",
+    "\\WebApiUsuarios\\obj\\Release",
+    "\\WebApiUsuarios\\wwwroot"
+  ],
+  "SelectedNode": "\\WebApiUsuarios\\Controllers",
+  "PreviewInSolutionExplorer": false
+}
